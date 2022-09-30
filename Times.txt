@@ -1,0 +1,9 @@
+9/3  - 9/13: 8900 minutes on(148hr 20mn), avg interval 3mn 0sec
+9/13: 304 minutes on(5hr  4mn), avg interval 3mn 0sec
+9/14: 724 minutes on(12hr 4mn), avg interval 3mn 3sec
+9/16: 820 minutes on(13hr 40mn), avg interval 3mn 1sec
+9:17: 360 minutes on(6hr), avg interval 2mn 54sec
+9/20: 2444 minutes on(40hr 44mn), avg interval 3mn 2sec
+9/20: 336 minutes on(5hr 35mn), avg interval 2mn 53sec
+9/21: 332 minutes on(5hr 32mn), avg interval 2mn 58sec
+9/22: 332 minutes on(5hr 32mn), avg interval 3mn 1sec
